@@ -1,4 +1,4 @@
-[README_OSS_Genio_Public.md](https://github.com/user-attachments/files/22052818/README_OSS_Genio_Public.md)
+
 
 # Open Data Platform (OSS) + Genio — for Oil & Gas
 
