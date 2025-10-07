@@ -1,5 +1,5 @@
 
-# GENIO · Open Data Platform + Vertical Packs (Oil & Gas • Manufacturing)
+# HNAI · Open Data Platform + Vertical Packs (Oil & Gas • Manufacturing)
 
 **One line:** We ship a modular, open-source data platform (Kafka/MQTT → Iceberg/Trino → dbt/GE → OpenLineage) and vertical packs for **Oil & Gas (EnergyPack)** and **Manufacturing (FactoryPack)** — built on **read-only** OT mirrors with clear SLOs. Cut license spend, remove lock-in, and stay aligned with Purdue/IEC‑62443.
 
